@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Weather-App-in-ReactJs/static/css/main.aac2be20.chunk.css",
+    "main.js": "/Weather-App-in-ReactJs/static/js/main.bdfc5930.chunk.js",
+    "main.js.map": "/Weather-App-in-ReactJs/static/js/main.bdfc5930.chunk.js.map",
+    "runtime-main.js": "/Weather-App-in-ReactJs/static/js/runtime-main.0137ac94.js",
+    "runtime-main.js.map": "/Weather-App-in-ReactJs/static/js/runtime-main.0137ac94.js.map",
+    "static/css/2.5e79395d.chunk.css": "/Weather-App-in-ReactJs/static/css/2.5e79395d.chunk.css",
+    "static/js/2.ed482308.chunk.js": "/Weather-App-in-ReactJs/static/js/2.ed482308.chunk.js",
+    "static/js/2.ed482308.chunk.js.map": "/Weather-App-in-ReactJs/static/js/2.ed482308.chunk.js.map",
+    "index.html": "/Weather-App-in-ReactJs/index.html",
+    "precache-manifest.b410fe5cf09ae78ce92ff679ade41a9d.js": "/Weather-App-in-ReactJs/precache-manifest.b410fe5cf09ae78ce92ff679ade41a9d.js",
+    "service-worker.js": "/Weather-App-in-ReactJs/service-worker.js",
+    "static/css/2.5e79395d.chunk.css.map": "/Weather-App-in-ReactJs/static/css/2.5e79395d.chunk.css.map",
+    "static/css/main.aac2be20.chunk.css.map": "/Weather-App-in-ReactJs/static/css/main.aac2be20.chunk.css.map",
+    "static/js/2.ed482308.chunk.js.LICENSE.txt": "/Weather-App-in-ReactJs/static/js/2.ed482308.chunk.js.LICENSE.txt",
+    "static/media/amsterdam.jpg": "/Weather-App-in-ReactJs/static/media/amsterdam.89011d5e.jpg",
+    "static/media/chennai.jpg": "/Weather-App-in-ReactJs/static/media/chennai.5671aebf.jpg",
+    "static/media/all.min.css": "/Weather-App-in-ReactJs/static/media/fa-solid-900.e8a427e1.woff2",
+    "static/media/london.jpg": "/Weather-App-in-ReactJs/static/media/london.4e9bacaa.jpg",
+    "static/media/paris.jpg": "/Weather-App-in-ReactJs/static/media/paris.1373cfb3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0137ac94.js",
+    "static/css/2.5e79395d.chunk.css",
+    "static/js/2.ed482308.chunk.js",
+    "static/css/main.aac2be20.chunk.css",
+    "static/js/main.bdfc5930.chunk.js"
+  ]
+}
